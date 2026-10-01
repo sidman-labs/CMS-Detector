@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /history/
+Disallow: /detect.php
+Disallow: /setup_admin.php
+
+Sitemap: https://cms-detector.rf.gd/sitemap.xml

@@ -1,0 +1,279 @@
+[
+    {
+        "url": "https:\/\/astral.ai.studio\/",
+        "summary": {
+            "frameworks": [
+                "React"
+            ],
+            "plugins": [
+                "Cloudflare",
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1790873167
+    },
+    {
+        "url": "https:\/\/astral.ai.studio\/",
+        "summary": {
+            "frameworks": [
+                "React"
+            ],
+            "plugins": [
+                "Cloudflare",
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1790872714
+    },
+    {
+        "url": "https:\/\/melamovies.top\/",
+        "summary": {
+            "languages": [
+                "Go"
+            ],
+            "plugins": [
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1790872704
+    },
+    {
+        "url": "https:\/\/www.mariscoindomarket.com\/",
+        "summary": {
+            "cms": [
+                "Shopify",
+                "DNN (DotNetNuke)"
+            ],
+            "frameworks": [
+                "Bootstrap",
+                "Tailwind CSS",
+                "jQuery"
+            ],
+            "plugins": [
+                "Cloudflare",
+                "WooCommerce",
+                "Elementor"
+            ],
+            "servers": [
+                "Cloudflare"
+            ]
+        },
+        "timestamp": 1790872692
+    },
+    {
+        "url": "https:\/\/www.mariscoindomarket.com\/",
+        "summary": {
+            "cms": [
+                "Shopify",
+                "DNN (DotNetNuke)"
+            ],
+            "frameworks": [
+                "Bootstrap",
+                "Tailwind CSS",
+                "jQuery"
+            ],
+            "plugins": [
+                "Cloudflare",
+                "WooCommerce",
+                "Elementor"
+            ],
+            "servers": [
+                "Cloudflare"
+            ]
+        },
+        "timestamp": 1790872232
+    },
+    {
+        "url": "https:\/\/cms-detector.rf.gd\/",
+        "summary": {
+            "cms": [
+                "WordPress",
+                "Magento",
+                "Wix"
+            ],
+            "languages": [
+                "PHP",
+                "Python"
+            ],
+            "frameworks": [
+                "Vue.js",
+                "Laravel",
+                "Tailwind CSS"
+            ],
+            "plugins": [
+                "WooCommerce",
+                "Elementor",
+                "Cloudflare"
+            ]
+        },
+        "timestamp": 1790784887
+    },
+    {
+        "url": "https:\/\/www.a1renovatie.nl\/",
+        "summary": {
+            "cms": [
+                "WordPress"
+            ],
+            "languages": [
+                "PHP"
+            ],
+            "frameworks": [
+                "Bootstrap",
+                "Tailwind CSS"
+            ],
+            "plugins": [
+                "Google Analytics",
+                "Yoast SEO",
+                "Elementor"
+            ],
+            "servers": [
+                "Apache"
+            ]
+        },
+        "timestamp": 1790260018
+    },
+    {
+        "url": "https:\/\/melamovies.top\/",
+        "summary": {
+            "languages": [
+                "Go"
+            ],
+            "plugins": [
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1789904343
+    },
+    {
+        "url": "https:\/\/melamovies.top\/",
+        "summary": {
+            "languages": [
+                "Go"
+            ],
+            "plugins": [
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1789904325
+    },
+    {
+        "url": "https:\/\/astral.ai.studio\/",
+        "summary": {
+            "frameworks": [
+                "React"
+            ],
+            "plugins": [
+                "Cloudflare",
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1788273891
+    },
+    {
+        "url": "https:\/\/g7ta.github.io\/",
+        "summary": [],
+        "timestamp": 1788273878
+    },
+    {
+        "url": "https:\/\/g7ta.github.io\/",
+        "summary": [],
+        "timestamp": 1788273866
+    },
+    {
+        "url": "https:\/\/g7ta.github.io\/",
+        "summary": [],
+        "timestamp": 1788273846
+    },
+    {
+        "url": "https:\/\/g7ta.github.io\/",
+        "summary": [],
+        "timestamp": 1788273765
+    },
+    {
+        "url": "https:\/\/astral.ai.studio\/",
+        "summary": {
+            "frameworks": [
+                "React"
+            ],
+            "plugins": [
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1788163556
+    },
+    {
+        "url": "https:\/\/astral.ai.studio\/",
+        "summary": {
+            "frameworks": [
+                "React"
+            ],
+            "plugins": [
+                "Google Analytics"
+            ]
+        },
+        "timestamp": 1788161789
+    },
+    {
+        "url": "https:\/\/sarthakgoswami.com\/",
+        "summary": {
+            "languages": [
+                "Go"
+            ],
+            "servers": [
+                "Nginx"
+            ]
+        },
+        "timestamp": 1786806555
+    },
+    {
+        "url": "https:\/\/sarthakgoswami.com\/",
+        "summary": {
+            "languages": [
+                "Go"
+            ],
+            "servers": [
+                "Nginx"
+            ]
+        },
+        "timestamp": 1786806544
+    },
+    {
+        "url": "https:\/\/cafenuvio.com\/",
+        "summary": {
+            "plugins": [
+                "Cloudflare",
+                "Google Analytics"
+            ],
+            "servers": [
+                "Cloudflare"
+            ]
+        },
+        "timestamp": 1786458912
+    },
+    {
+        "url": "https:\/\/synergyasiaqatar.com\/",
+        "summary": {
+            "cms": [
+                "Magento",
+                "TYPO3",
+                "OpenCart"
+            ],
+            "languages": [
+                "PHP"
+            ],
+            "frameworks": [
+                "Symfony",
+                "Bootstrap",
+                "Tailwind CSS"
+            ],
+            "plugins": [
+                "Google Analytics",
+                "Cloudflare"
+            ],
+            "servers": [
+                "LiteSpeed"
+            ]
+        },
+        "timestamp": 1786288136
+    }
+]
